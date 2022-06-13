@@ -1,7 +1,7 @@
 Hi 👋 My name is Baptiste Leroyer
 =================================
 
-Project leader ans C developper
+Project leader and C developper
 -------------------------------
 
 * 🌍  I'm based in Lyon
