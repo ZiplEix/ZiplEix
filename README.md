@@ -1,7 +1,7 @@
 Hi 👋 My name is Baptiste Leroyer
 =================================
 
-Project leader and C developper
+Low-level programmer & Flutter enjoyer
 -------------------------------
 
 * 🌍  I'm based in Lyon
