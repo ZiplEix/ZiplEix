@@ -1,7 +1,7 @@
 Hi 👋 My name is Baptiste Leroyer
 =================================
 
-<img src="[https://github-widgetbox.vercel.app/api/profile?username=0xsharkboy&data=followers,stars,repositories,commits&theme=darkmode](https://github-widgetbox.vercel.app/api/profile?username=ZiplEix&data=followers,repositories,stars,commits)" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ZiplEix&data=followers,repositories,stars,commits" />
 
 Low-level programmer & Flutter enjoyer
 -------------------------------
