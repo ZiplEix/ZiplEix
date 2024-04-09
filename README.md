@@ -9,7 +9,7 @@ Low-level programmer & Flutter enjoyer
 * 🌍  I'm based in Lyon
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/baptiste-leroyer/)
 * ✉️  You can contact me at [leroyerbaptiste@gmail.com](mailto:leroyerbaptiste@gmail.com)
-* 🧠  I'm learning in EPITECH
+* 🧠  I'm learning at EPITECH
 
 ### Skills
 
